@@ -105,7 +105,7 @@
     "@next/env": "15.6.0-canary.19",
     "@swc/helpers": "0.5.15",
     "caniuse-lite": "^1.0.30001579",
-    "postcss": "8.4.31",
+    "postcss": "8.5.10",
     "styled-jsx": "5.1.6"
   },
   "peerDependencies": {
@@ -296,7 +296,7 @@
     "p-queue": "6.6.2",
     "path-browserify": "1.0.1",
     "path-to-regexp": "6.3.0",
-    "picomatch": "4.0.1",
+    "picomatch": "4.0.4",
     "postcss-flexbugs-fixes": "5.0.2",
     "postcss-modules-extract-imports": "3.0.0",
     "postcss-modules-local-by-default": "4.2.0",
@@ -335,7 +335,7 @@
     "strip-ansi": "6.0.0",
     "style-loader": "4.0.0",
     "superstruct": "1.0.3",
-    "tar": "6.1.15",
+    "tar": "7.5.11",
     "taskr": "1.1.0",
     "terser": "5.27.0",
     "terser-webpack-plugin": "5.3.9",
