@@ -11,7 +11,7 @@
     "date-fns": "^2.29.3",
     "gray-matter": "4.0.3",
     "ioredis": "^5.2.4",
-    "nanoid": "^4.0.0",
+    "nanoid": "^3.3.18",
     "next": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -24,7 +24,7 @@
     "@types/react": "^18.0.23",
     "@types/react-dom": "^18.0.7",
     "autoprefixer": "^10.4.12",
-    "postcss": "^8.4.18",
+    "postcss": "^8.5.23",
     "tailwindcss": "^3.2.1",
     "typescript": "^4.8.4"
   }
